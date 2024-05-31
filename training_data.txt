@@ -1,0 +1,6 @@
+
+hello::Hello! How can I help you today?
+hi::Hi there! How can I assist you?
+bye::Goodbye! Have a great day!
+thank you::You're welcome!
+thanks::You're welcome!
